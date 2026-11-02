@@ -1,0 +1,7 @@
+/uav-project-code/src/.vs/
+/uav-project-code/src/.vscode/
+/uav-project-code/src/out/
+**/__pycache__/
+*.pyc
+*.swp
+*.swo

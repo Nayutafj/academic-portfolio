@@ -18,7 +18,7 @@
 - **三维方案探索：**最初尝试利用 Arma 3 的场景图像构建三维环境信息，但从 RGB 图像实时恢复可靠点云存在精度和计算开销问题。随后转向 Unity 仿真环境，使用虚拟深度摄像头获取深度图，再通过坐标变换生成三维点云。
 - **阶段性成果：**在二维环境中完成多无人机协同避障相关实验；在 Unity 中完成单架无人机基于深度信息的初步三维导航与避障验证。三维集群协同是后续可继续扩展的方向。
 
-[查看项目结题报告（公开版）](documents/UAV-project-report-redacted.pdf) · [查看结题答辩 PPT](documents/UAV-project-presentation.pptx)
+[查看项目代码与来源说明](uav-project-code/README.md) · [查看项目结题报告（公开版）](documents/UAV-project-report-redacted.pdf) · [查看结题答辩 PPT](documents/UAV-project-presentation.pptx)
 
 ## 竞赛经历
 
